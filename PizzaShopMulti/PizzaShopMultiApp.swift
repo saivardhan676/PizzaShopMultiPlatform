@@ -11,7 +11,8 @@ import SwiftUI
 struct PizzaShopMultiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(orderModel: OrderModel())
+                .environmentObject(UserPreferences())
         }
     }
 }
