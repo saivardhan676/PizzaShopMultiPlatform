@@ -16,9 +16,10 @@ A unified **SwiftUI** application for browsing menus and ordering pizzas across 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshot_iphone.png" width="30%" />
-  <img src="screenshot_ipad.png" width="30%" />
-  <img src="screenshot_macos.png" width="30%" />
+  <img src="ipadOS-1.png" width="30%" />
+  <img src="ipadOS-2.png" width="30%" />
+  <img src="ipadOS-3.png" width="30%" />
+  <img src="macOS-1.png" width="30%" />
 </p>
 
 
